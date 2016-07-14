@@ -1548,9 +1548,9 @@
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
-		font-weight: 300;
+		font-weight: 400;
 		line-height: 1.75em;
-		color: #888;
+		color: #666;
 	}
 
 		body.is-loading * {
@@ -1573,8 +1573,8 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 300;
-		color: #666;
+		font-weight: 700;
+		color: #333;
 		line-height: 1.5em;
 	}
 
@@ -1613,12 +1613,14 @@
 		}
 
 	footer {
+		font-weight: 300;
+		color: #888;
 		margin: 2em 0 0 0;
 	}
 
 	strong, b {
-		font-weight: 300;
-		color: #666;
+		font-weight: 700;
+		color: #444;
 	}
 
 	em, i {
@@ -1701,13 +1703,13 @@
 		}
 
 		.image.avatar48 {
-			width: 48px;
+			width: 72px;
 			height: 48px;
 			background: #f00;
 		}
 
 			.image.avatar48 img {
-				width: 48px;
+				width: 72px;
 				height: 48px;
 			}
 
@@ -2114,6 +2116,8 @@
 
 	#main {
 		margin-left: 375px;
+		font-size: 12pt;
+		font-style: cochin;
 	}
 
 		#main > section {
