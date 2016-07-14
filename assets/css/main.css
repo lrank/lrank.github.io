@@ -1547,7 +1547,7 @@
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
+		font-size: 12pt;
 		font-weight: 400;
 		line-height: 1.75em;
 		color: #666;
@@ -2116,7 +2116,7 @@
 
 	#main {
 		margin-left: 375px;
-		font-size: 10pt;
+		font-size: 12pt;
 	}
 
 		#main > section {
