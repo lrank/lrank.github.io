@@ -2181,7 +2181,7 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 16pt;
+				font-size: 14pt;
 			}
 
 		/* Header */
@@ -2227,7 +2227,7 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 15pt;
+				font-size: 12pt;
 			}
 
 			.container {
@@ -2302,7 +2302,7 @@
 			}
 
 			body, input, textarea, select {
-				font-size: 16pt;
+				font-size: 14pt;
 			}
 
 			header br {
