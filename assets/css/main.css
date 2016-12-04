@@ -1574,7 +1574,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 700;
-		color: #333;
+		color: #3498DB;
 		line-height: 1.5em;
 	}
 
@@ -2165,15 +2165,15 @@
 			}
 
 			#main > section.two {
-				background-color: #f5fafa;
+				background-color: #ffffff;
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				background-color: #ffffff;
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: #ffffff;
 			}
 
 /* Wide */
